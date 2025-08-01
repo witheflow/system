@@ -1,0 +1,14 @@
+rules:
+  - name: high_attention
+    condition:
+      attention: {gt: 0.5}
+    function: boost_far_any_direction
+    description: >
+      High attention: Assume intentionality. Allow emotionally contrasting FX to dominate.
+
+  - name: low_attention
+    condition:
+      attention: {lt: 0.5}
+    function: boost_near_only
+    description: >
+      Low attention: Stay emotionally close to dry signal. Reduce emotionally distant FX.

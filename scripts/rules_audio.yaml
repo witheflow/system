@@ -1,0 +1,166 @@
+rules:
+  - name: Vhigh_Ahigh_dVrising_dArising
+    condition:
+      valence: {gt: 0.0}
+      arousal: {gt: 0.0}
+      delta_valence: {gt: 0.01}
+      delta_arousal: {gt: 0.01}
+    function: boost_far_audio_only
+    description: >
+      Positive and energetic, getting even more so — explore far FX to elevate intensity.
+
+  - name: Vhigh_Ahigh_dVrising_dAfalling
+    condition:
+      valence: {gt: 0.0}
+      arousal: {gt: 0.0}
+      delta_valence: {gt: 0.01}
+      delta_arousal: {lt: -0.01}
+    function: boost_near_audio_only
+    description: >
+      Emotionally positive but calming — stay emotionally close, smooth transitions.
+
+  - name: Vhigh_Ahigh_dVfalling_dArising
+    condition:
+      valence: {gt: 0.0}
+      arousal: {gt: 0.0}
+      delta_valence: {lt: -0.01}
+      delta_arousal: {gt: 0.01}
+    function: boost_directional_shift
+    description: >
+      Positivity fading but energy increasing — track shift with dynamic FX.
+
+  - name: Vhigh_Ahigh_dVfalling_dAfalling
+    condition:
+      valence: {gt: 0.0}
+      arousal: {gt: 0.0}
+      delta_valence: {lt: -0.01}
+      delta_arousal: {lt: -0.01}
+    function: boost_near_only
+    description: >
+      Bright energy fading — strip FX gently, remain warm.
+
+  - name: Vhigh_Alow_dVrising_dArising
+    condition:
+      valence: {gt: 0.0}
+      arousal: {lt: 0.0}
+      delta_valence: {gt: 0.01}
+      delta_arousal: {gt: 0.01}
+    function: boost_directional_shift
+    description: >
+      Peaceful but gaining energy — gentle build with aligned FX.
+
+  - name: Vhigh_Alow_dVrising_dAfalling
+    condition:
+      valence: {gt: 0.0}
+      arousal: {lt: 0.0}
+      delta_valence: {gt: 0.01}
+      delta_arousal: {lt: -0.01}
+    function: boost_near_audio_only
+    description: >
+      Serene uplift — add subtle color, keep it calm.
+
+  - name: Vhigh_Alow_dVfalling_dArising
+    condition:
+      valence: {gt: 0.0}
+      arousal: {lt: 0.0}
+      delta_valence: {lt: -0.01}
+      delta_arousal: {gt: 0.01}
+    function: boost_far_audio_only
+    description: >
+      Calm positivity turning unstable — explore textural FX for contrast.
+
+  - name: Vhigh_Alow_dVfalling_dAfalling
+    condition:
+      valence: {gt: 0.0}
+      arousal: {lt: 0.0}
+      delta_valence: {lt: -0.01}
+      delta_arousal: {lt: -0.01}
+    function: boost_near_only
+    description: >
+      Withdrawing into peaceful stillness — minimal, conservative FX.
+
+  - name: Vlow_Ahigh_dVrising_dArising
+    condition:
+      valence: {lt: 0.0}
+      arousal: {gt: 0.0}
+      delta_valence: {gt: 0.01}
+      delta_arousal: {gt: 0.01}
+    function: boost_directional_shift
+    description: >
+      Energetic with rising positivity — FX should track forward movement.
+
+  - name: Vlow_Ahigh_dVrising_dAfalling
+    condition:
+      valence: {lt: 0.0}
+      arousal: {gt: 0.0}
+      delta_valence: {gt: 0.01}
+      delta_arousal: {lt: -0.01}
+    function: boost_near_audio_only
+    description: >
+      Dark mood but calming — soften FX presence, stay close.
+
+  - name: Vlow_Ahigh_dVfalling_dArising
+    condition:
+      valence: {lt: 0.0}
+      arousal: {gt: 0.0}
+      delta_valence: {lt: -0.01}
+      delta_arousal: {gt: 0.01}
+    function: boost_far_audio_only
+    description: >
+      Tension building in dark mood — aggressive, expressive FX welcome.
+
+  - name: Vlow_Ahigh_dVfalling_dAfalling
+    condition:
+      valence: {lt: 0.0}
+      arousal: {gt: 0.0}
+      delta_valence: {lt: -0.01}
+      delta_arousal: {lt: -0.01}
+    function: boost_near_only
+    description: >
+      Emotional descent and calming — strip FX, hold space.
+
+  - name: Vlow_Alow_dVrising_dArising
+    condition:
+      valence: {lt: 0.0}
+      arousal: {lt: 0.0}
+      delta_valence: {gt: 0.01}
+      delta_arousal: {gt: 0.01}
+    function: boost_near_audio_only
+    description: >
+      Emerging from darkness and calm — support gentle lift with subtle FX.
+
+  - name: Vlow_Alow_dVrising_dAfalling
+    condition:
+      valence: {lt: 0.0}
+      arousal: {lt: 0.0}
+      delta_valence: {gt: 0.01}
+      delta_arousal: {lt: -0.01}
+    function: boost_near_only
+    description: >
+      Mood is improving but calming — keep FX low and tight.
+
+  - name: Vlow_Alow_dVfalling_dArising
+    condition:
+      valence: {lt: 0.0}
+      arousal: {lt: 0.0}
+      delta_valence: {lt: -0.01}
+      delta_arousal: {gt: 0.01}
+    function: boost_far_audio_only
+    description: >
+      Rising energy in dark state — explore more edgy FX.
+
+  - name: Vlow_Alow_dVfalling_dAfalling
+    condition:
+      valence: {lt: 0.0}
+      arousal: {lt: 0.0}
+      delta_valence: {lt: -0.01}
+      delta_arousal: {lt: -0.01}
+    function: boost_near_only
+    description: >
+      Deepening low mood — strip away FX to reflect stillness.
+
+  - name: fallback_default
+    condition: {}
+    function: boost_near_only
+    description: >
+      Catch-all fallback when no other rule matches — stay close to dry audio.

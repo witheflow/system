@@ -1,0 +1,17 @@
+{
+    "MODEL_PATH":"../models/deam_va_model.pt",
+    "DEVICE_INDEX":1,
+    "MIDI_IN_PORT":"Network Session 1",
+    "MIDI_OUT_PORT":"IAC Driver Bus 1",
+    "MIDI_OUT_CHANNEL":0,
+    "CC_DRY":20,
+    "CC_FX_1":21,
+    "CC_FX_2":22,
+    "CC_FX_3":23,
+    "CC_FX_4":26,
+    "CC_STRESS":24,
+    "CC_ATTENTION":25,
+    "NUM_FX_CHANNELS":4,
+    "FOOTPEDAL_CC":64,
+    "SENSORS_AVAILABLE":"all"
+}

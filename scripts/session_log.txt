@@ -1,0 +1,340 @@
+[13:30:23.6556 Available MIDI output ports:
+[13:30:23.6783 Network Session 1
+[13:30:23.6783 IAC Driver Bus 1
+[13:30:23.6783 IAC Driver relaxation input
+[13:30:23.6783 M4
+[13:30:23.6784 mioXM DIN 1
+[13:30:23.6784 mioXM DIN 2
+[13:30:23.6784 mioXM DIN 3
+[13:30:23.6784 mioXM DIN 4
+[13:30:23.6784 mioXM HST 1
+[13:30:23.6784 mioXM HST 2
+[13:30:23.6784 mioXM HST 3
+[13:30:23.6784 mioXM HST 4
+[13:30:23.6784 mioXM HST 5
+[13:30:23.6784 mioXM HST 6
+[13:30:23.6784 mioXM HST 7
+[13:30:23.6784 mioXM HST 8
+[13:30:23.6784 mioXM Preset Selector
+[13:30:23.6784 mioXM RSV 1
+[13:30:23.6784 mioXM RSV 2
+[13:30:23.6785 mioXM RSV 3
+[13:30:23.6785 0: M4 (4 in, 4 out)
+[13:30:23.6785 1: BlackHole 16ch (16 in, 16 out)
+[13:30:23.6785 2: MacBook Air Microphone (1 in, 0 out)
+[13:30:23.6785 3: MacBook Air Speakers (0 in, 2 out)
+[13:30:23.6785 4: Microsoft Teams Audio (1 in, 1 out)
+[13:30:23.6785 5: Aggregate motu (20 in, 20 out)
+[13:30:23.6786 6: Reaper aggregate (16 in, 18 out)
+[13:30:23.6786 7: Aggregate focusrite (16 in, 16 out)
+[13:30:23.6786 8: Multi-Output Device (0 in, 2 out)
+[13:30:23.6786 9: Reaper output for Python (0 in, 2 out)
+[13:30:25.7079 Running real-time inference. Press Ctrl+C to stop.
+[13:30:26.6493 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:26.6524 Gains (dry + FX + mix):
+[13:30:26.6525 [20, 0, 0, 0, 0, 20]
+[13:30:26.6525 Dry: Valence = -0.034, Arousal = 0.061
+[13:30:26.6525 FX 1: Valence = -0.034, Arousal = 0.061
+[13:30:26.6525 FX 2: Valence = -0.034, Arousal = 0.061
+[13:30:26.6525 FX 3: Valence = -0.034, Arousal = 0.061
+[13:30:26.6525 FX 4: Valence = -0.034, Arousal = 0.061
+[13:30:26.6525 Full Mix: Valence = -0.034, Arousal = 0.061
+[13:30:26.6526 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:26.6526 -----------
+[13:30:27.2712 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:27.2772 Gains (dry + FX + mix):
+[13:30:27.2772 [36, 0, 0, 0, 0, 36]
+[13:30:27.2772 Dry: Valence = -0.034, Arousal = 0.061
+[13:30:27.2772 FX 1: Valence = -0.034, Arousal = 0.061
+[13:30:27.2773 FX 2: Valence = -0.034, Arousal = 0.061
+[13:30:27.2773 FX 3: Valence = -0.034, Arousal = 0.061
+[13:30:27.2773 FX 4: Valence = -0.034, Arousal = 0.061
+[13:30:27.2773 Full Mix: Valence = -0.034, Arousal = 0.061
+[13:30:27.2773 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:27.2773 -----------
+[13:30:27.8855 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:27.8896 Gains (dry + FX + mix):
+[13:30:27.8897 [49, 0, 0, 0, 0, 49]
+[13:30:27.8898 Dry: Valence = -0.034, Arousal = 0.061
+[13:30:27.8899 FX 1: Valence = -0.034, Arousal = 0.061
+[13:30:27.8899 FX 2: Valence = -0.034, Arousal = 0.061
+[13:30:27.8900 FX 3: Valence = -0.034, Arousal = 0.061
+[13:30:27.8900 FX 4: Valence = -0.034, Arousal = 0.061
+[13:30:27.8900 Full Mix: Valence = -0.034, Arousal = 0.061
+[13:30:27.8901 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:27.8901 -----------
+[13:30:28.4999 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:28.5031 Gains (dry + FX + mix):
+[13:30:28.5032 [59, 0, 0, 0, 0, 59]
+[13:30:28.5033 Dry: Valence = -0.034, Arousal = 0.061
+[13:30:28.5033 FX 1: Valence = -0.034, Arousal = 0.061
+[13:30:28.5033 FX 2: Valence = -0.034, Arousal = 0.061
+[13:30:28.5034 FX 3: Valence = -0.034, Arousal = 0.061
+[13:30:28.5034 FX 4: Valence = -0.034, Arousal = 0.061
+[13:30:28.5034 Full Mix: Valence = -0.034, Arousal = 0.061
+[13:30:28.5034 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:28.5034 -----------
+[13:30:29.1010 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:29.1043 Gains (dry + FX + mix):
+[13:30:29.1044 [67, 0, 0, 0, 0, 67]
+[13:30:29.1044 Dry: Valence = -0.034, Arousal = 0.061
+[13:30:29.1044 FX 1: Valence = -0.034, Arousal = 0.061
+[13:30:29.1044 FX 2: Valence = -0.034, Arousal = 0.061
+[13:30:29.1044 FX 3: Valence = -0.034, Arousal = 0.061
+[13:30:29.1045 FX 4: Valence = -0.034, Arousal = 0.061
+[13:30:29.1045 Full Mix: Valence = -0.034, Arousal = 0.061
+[13:30:29.1045 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:29.1045 -----------
+[13:30:29.7178 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:29.7221 Gains (dry + FX + mix):
+[13:30:29.7223 [74, 0, 0, 0, 0, 74]
+[13:30:29.7223 Dry: Valence = -0.034, Arousal = 0.061
+[13:30:29.7223 FX 1: Valence = -0.034, Arousal = 0.061
+[13:30:29.7224 FX 2: Valence = -0.034, Arousal = 0.061
+[13:30:29.7224 FX 3: Valence = -0.034, Arousal = 0.061
+[13:30:29.7224 FX 4: Valence = -0.034, Arousal = 0.061
+[13:30:29.7224 Full Mix: Valence = -0.034, Arousal = 0.061
+[13:30:29.7224 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:29.7224 -----------
+[13:30:30.3373 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:30.3423 Gains (dry + FX + mix):
+[13:30:30.3424 [79, 0, 0, 0, 0, 79]
+[13:30:30.3424 Dry: Valence = -0.034, Arousal = 0.061
+[13:30:30.3424 FX 1: Valence = -0.034, Arousal = 0.061
+[13:30:30.3425 FX 2: Valence = -0.034, Arousal = 0.061
+[13:30:30.3425 FX 3: Valence = -0.034, Arousal = 0.061
+[13:30:30.3425 FX 4: Valence = -0.034, Arousal = 0.061
+[13:30:30.3425 Full Mix: Valence = -0.034, Arousal = 0.061
+[13:30:30.3425 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:30.3426 -----------
+[13:30:30.9664 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:30.9773 Gains (dry + FX + mix):
+[13:30:30.9774 [83, 0, 0, 0, 0, 83]
+[13:30:30.9774 Dry: Valence = -0.034, Arousal = 0.061
+[13:30:30.9774 FX 1: Valence = -0.034, Arousal = 0.061
+[13:30:30.9774 FX 2: Valence = -0.034, Arousal = 0.061
+[13:30:30.9774 FX 3: Valence = -0.034, Arousal = 0.061
+[13:30:30.9774 FX 4: Valence = -0.034, Arousal = 0.061
+[13:30:30.9774 Full Mix: Valence = -0.034, Arousal = 0.061
+[13:30:30.9775 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:30.9775 -----------
+[13:30:31.6018 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:31.6052 Gains (dry + FX + mix):
+[13:30:31.6053 [86, 0, 0, 14, 10, 86]
+[13:30:31.6054 Dry: Valence = -0.027, Arousal = 0.062
+[13:30:31.6054 FX 1: Valence = -0.019, Arousal = 0.061
+[13:30:31.6054 FX 2: Valence = -0.033, Arousal = 0.063
+[13:30:31.6054 FX 3: Valence = -0.031, Arousal = 0.062
+[13:30:31.6055 FX 4: Valence = -0.028, Arousal = 0.057
+[13:30:31.6055 Full Mix: Valence = -0.025, Arousal = 0.061
+[13:30:31.6055 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:31.6055 -----------
+[13:30:32.2195 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:32.2238 Gains (dry + FX + mix):
+[13:30:32.2239 [89, 21, 0, 34, 23, 89]
+[13:30:32.2240 Dry: Valence = 0.188, Arousal = 0.169
+[13:30:32.2240 FX 1: Valence = 0.135, Arousal = 0.147
+[13:30:32.2240 FX 2: Valence = -0.079, Arousal = -0.075
+[13:30:32.2241 FX 3: Valence = 0.160, Arousal = 0.142
+[13:30:32.2241 FX 4: Valence = 0.068, Arousal = 0.076
+[13:30:32.2241 Full Mix: Valence = 0.267, Arousal = 0.215
+[13:30:32.2241 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:32.2242 -----------
+[13:30:32.8523 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:32.8567 Gains (dry + FX + mix):
+[13:30:32.8569 [91, 17, 7, 51, 18, 91]
+[13:30:32.8570 Dry: Valence = 0.145, Arousal = -0.014
+[13:30:32.8570 FX 1: Valence = 0.089, Arousal = 0.347
+[13:30:32.8571 FX 2: Valence = -0.106, Arousal = -0.114
+[13:30:32.8571 FX 3: Valence = 0.167, Arousal = -0.018
+[13:30:32.8571 FX 4: Valence = 0.073, Arousal = 0.030
+[13:30:32.8571 Full Mix: Valence = 0.180, Arousal = 0.042
+[13:30:32.8571 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:32.8572 -----------
+[13:30:33.4699 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:33.4738 Gains (dry + FX + mix):
+[13:30:33.4738 [93, 14, 6, 62, 14, 93]
+[13:30:33.4739 Dry: Valence = 0.164, Arousal = 0.020
+[13:30:33.4739 FX 1: Valence = 0.188, Arousal = 0.335
+[13:30:33.4739 FX 2: Valence = -0.143, Arousal = -0.200
+[13:30:33.4740 FX 3: Valence = 0.138, Arousal = -0.032
+[13:30:33.4740 FX 4: Valence = 0.112, Arousal = 0.067
+[13:30:33.4740 Full Mix: Valence = 0.214, Arousal = 0.078
+[13:30:33.4740 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:33.4740 -----------
+[13:30:34.1028 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:34.1067 Gains (dry + FX + mix):
+[13:30:34.1067 [94, 11, 5, 71, 11, 94]
+[13:30:34.1068 Dry: Valence = 0.158, Arousal = 0.051
+[13:30:34.1068 FX 1: Valence = 0.232, Arousal = 0.320
+[13:30:34.1069 FX 2: Valence = -0.118, Arousal = -0.193
+[13:30:34.1069 FX 3: Valence = 0.145, Arousal = -0.009
+[13:30:34.1069 FX 4: Valence = 0.126, Arousal = 0.052
+[13:30:34.1069 Full Mix: Valence = 0.173, Arousal = 0.070
+[13:30:34.1070 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:34.1070 -----------
+[13:30:34.7196 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:34.7236 Gains (dry + FX + mix):
+[13:30:34.7237 [95, 9, 4, 80, 9, 95]
+[13:30:34.7237 Dry: Valence = 0.132, Arousal = 0.026
+[13:30:34.7237 FX 1: Valence = 0.167, Arousal = 0.317
+[13:30:34.7238 FX 2: Valence = -0.121, Arousal = -0.202
+[13:30:34.7238 FX 3: Valence = 0.147, Arousal = 0.003
+[13:30:34.7238 FX 4: Valence = 0.102, Arousal = 0.039
+[13:30:34.7238 Full Mix: Valence = 0.161, Arousal = 0.063
+[13:30:34.7239 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:34.7239 -----------
+[13:30:35.3512 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:35.3554 Gains (dry + FX + mix):
+[13:30:35.3556 [96, 7, 3, 88, 7, 96]
+[13:30:35.3557 Dry: Valence = 0.128, Arousal = 0.017
+[13:30:35.3557 FX 1: Valence = 0.128, Arousal = 0.319
+[13:30:35.3557 FX 2: Valence = -0.152, Arousal = -0.219
+[13:30:35.3557 FX 3: Valence = 0.130, Arousal = -0.004
+[13:30:35.3558 FX 4: Valence = 0.100, Arousal = 0.030
+[13:30:35.3558 Full Mix: Valence = 0.145, Arousal = 0.034
+[13:30:35.3558 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:35.3558 -----------
+[13:30:35.9858 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:35.9892 Gains (dry + FX + mix):
+[13:30:35.9893 [97, 6, 2, 94, 28, 97]
+[13:30:35.9893 Dry: Valence = 0.146, Arousal = 0.038
+[13:30:35.9893 FX 1: Valence = 0.200, Arousal = 0.319
+[13:30:35.9894 FX 2: Valence = -0.169, Arousal = -0.238
+[13:30:35.9894 FX 3: Valence = 0.131, Arousal = 0.012
+[13:30:35.9894 FX 4: Valence = 0.091, Arousal = 0.025
+[13:30:35.9894 Full Mix: Valence = 0.151, Arousal = 0.030
+[13:30:35.9895 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:35.9895 -----------
+[13:30:36.6055 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:36.6097 Gains (dry + FX + mix):
+[13:30:36.6097 [98, 5, 3, 100, 22, 98]
+[13:30:36.6098 Dry: Valence = 0.101, Arousal = -0.043
+[13:30:36.6098 FX 1: Valence = 0.203, Arousal = 0.355
+[13:30:36.6098 FX 2: Valence = -0.197, Arousal = -0.279
+[13:30:36.6098 FX 3: Valence = 0.104, Arousal = -0.050
+[13:30:36.6099 FX 4: Valence = 0.088, Arousal = 0.026
+[13:30:36.6099 Full Mix: Valence = 0.110, Arousal = -0.012
+[13:30:36.6099 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:36.6099 -----------
+[13:30:37.2356 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:37.2396 Gains (dry + FX + mix):
+[13:30:37.2397 [98, 4, 2, 104, 18, 98]
+[13:30:37.2398 Dry: Valence = 0.124, Arousal = -0.015
+[13:30:37.2398 FX 1: Valence = 0.199, Arousal = 0.364
+[13:30:37.2398 FX 2: Valence = -0.175, Arousal = -0.283
+[13:30:37.2398 FX 3: Valence = 0.114, Arousal = -0.032
+[13:30:37.2399 FX 4: Valence = 0.130, Arousal = 0.030
+[13:30:37.2399 Full Mix: Valence = 0.094, Arousal = -0.019
+[13:30:37.2399 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:37.2399 -----------
+[13:30:37.8708 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:37.8748 Gains (dry + FX + mix):
+[13:30:37.8748 [98, 3, 6, 83, 14, 98]
+[13:30:37.8749 Dry: Valence = 0.102, Arousal = -0.042
+[13:30:37.8749 FX 1: Valence = 0.220, Arousal = 0.384
+[13:30:37.8750 FX 2: Valence = -0.182, Arousal = -0.278
+[13:30:37.8750 FX 3: Valence = 0.147, Arousal = 0.037
+[13:30:37.8750 FX 4: Valence = 0.107, Arousal = -0.008
+[13:30:37.8750 Full Mix: Valence = 0.121, Arousal = -0.007
+[13:30:37.8750 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:37.8751 -----------
+[13:30:38.4996 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:38.5038 Gains (dry + FX + mix):
+[13:30:38.5039 [98, 2, 5, 66, 33, 98]
+[13:30:38.5039 Dry: Valence = 0.144, Arousal = 0.020
+[13:30:38.5041 FX 1: Valence = 0.148, Arousal = 0.316
+[13:30:38.5041 FX 2: Valence = -0.195, Arousal = -0.281
+[13:30:38.5041 FX 3: Valence = 0.161, Arousal = 0.063
+[13:30:38.5042 FX 4: Valence = 0.095, Arousal = -0.025
+[13:30:38.5042 Full Mix: Valence = 0.133, Arousal = 0.027
+[13:30:38.5042 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:38.5043 -----------
+[13:30:39.1363 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:39.1397 Gains (dry + FX + mix):
+[13:30:39.1397 [98, 2, 4, 53, 26, 98]
+[13:30:39.1397 Dry: Valence = 0.127, Arousal = -0.018
+[13:30:39.1398 FX 1: Valence = 0.144, Arousal = 0.335
+[13:30:39.1398 FX 2: Valence = -0.187, Arousal = -0.293
+[13:30:39.1398 FX 3: Valence = 0.140, Arousal = 0.028
+[13:30:39.1398 FX 4: Valence = 0.120, Arousal = -0.013
+[13:30:39.1398 Full Mix: Valence = 0.124, Arousal = 0.040
+[13:30:39.1398 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:39.1398 -----------
+[13:30:39.7542 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:39.7574 Gains (dry + FX + mix):
+[13:30:39.7575 [98, 2, 3, 42, 45, 98]
+[13:30:39.7575 Dry: Valence = 0.128, Arousal = 0.019
+[13:30:39.7575 FX 1: Valence = 0.147, Arousal = 0.313
+[13:30:39.7575 FX 2: Valence = -0.194, Arousal = -0.282
+[13:30:39.7575 FX 3: Valence = 0.152, Arousal = 0.045
+[13:30:39.7576 FX 4: Valence = 0.137, Arousal = 0.007
+[13:30:39.7576 Full Mix: Valence = 0.132, Arousal = 0.055
+[13:30:39.7576 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:39.7576 -----------
+[13:30:40.3846 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:40.3887 Gains (dry + FX + mix):
+[13:30:40.3888 [98, 2, 2, 34, 36, 98]
+[13:30:40.3888 Dry: Valence = 0.161, Arousal = 0.033
+[13:30:40.3889 FX 1: Valence = 0.102, Arousal = 0.237
+[13:30:40.3889 FX 2: Valence = -0.200, Arousal = -0.292
+[13:30:40.3889 FX 3: Valence = 0.161, Arousal = 0.035
+[13:30:40.3889 FX 4: Valence = 0.156, Arousal = 0.070
+[13:30:40.3890 Full Mix: Valence = 0.140, Arousal = 0.045
+[13:30:40.3890 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:40.3890 -----------
+[13:30:41.0055 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:41.0096 Gains (dry + FX + mix):
+[13:30:41.0096 [98, 2, 2, 52, 29, 98]
+[13:30:41.0097 Dry: Valence = 0.140, Arousal = 0.003
+[13:30:41.0097 FX 1: Valence = 0.107, Arousal = 0.266
+[13:30:41.0097 FX 2: Valence = -0.188, Arousal = -0.275
+[13:30:41.0097 FX 3: Valence = 0.157, Arousal = -0.002
+[13:30:41.0098 FX 4: Valence = 0.129, Arousal = 0.021
+[13:30:41.0098 Full Mix: Valence = 0.143, Arousal = 0.063
+[13:30:41.0098 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:41.0098 -----------
+[13:30:41.6371 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:41.6416 Gains (dry + FX + mix):
+[13:30:41.6416 [98, 2, 2, 42, 23, 98]
+[13:30:41.6417 Dry: Valence = 0.121, Arousal = -0.011
+[13:30:41.6417 FX 1: Valence = 0.109, Arousal = 0.242
+[13:30:41.6417 FX 2: Valence = -0.171, Arousal = -0.253
+[13:30:41.6417 FX 3: Valence = 0.156, Arousal = 0.021
+[13:30:41.6418 FX 4: Valence = 0.159, Arousal = 0.075
+[13:30:41.6418 Full Mix: Valence = 0.164, Arousal = 0.094
+[13:30:41.6418 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:41.6418 -----------
+[13:30:42.2683 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:42.2725 Gains (dry + FX + mix):
+[13:30:42.2726 [98, 2, 2, 34, 18, 98]
+[13:30:42.2727 Dry: Valence = 0.142, Arousal = 0.025
+[13:30:42.2727 FX 1: Valence = 0.112, Arousal = 0.251
+[13:30:42.2727 FX 2: Valence = -0.188, Arousal = -0.246
+[13:30:42.2727 FX 3: Valence = 0.168, Arousal = 0.063
+[13:30:42.2728 FX 4: Valence = 0.111, Arousal = 0.042
+[13:30:42.2728 Full Mix: Valence = 0.162, Arousal = 0.083
+[13:30:42.2729 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:42.2729 -----------
+[13:30:42.9006 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:42.9032 Gains (dry + FX + mix):
+[13:30:42.9032 [98, 2, 2, 52, 14, 98]
+[13:30:42.9033 Dry: Valence = 0.129, Arousal = 0.018
+[13:30:42.9033 FX 1: Valence = 0.093, Arousal = 0.235
+[13:30:42.9033 FX 2: Valence = -0.181, Arousal = -0.234
+[13:30:42.9033 FX 3: Valence = 0.130, Arousal = 0.001
+[13:30:42.9033 FX 4: Valence = 0.118, Arousal = 0.076
+[13:30:42.9033 Full Mix: Valence = 0.151, Arousal = 0.085
+[13:30:42.9033 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:42.9034 -----------
+[13:30:43.5158 Active Rule: low_stress_low_attention | Strength: 1.00
+[13:30:43.5195 Gains (dry + FX + mix):
+[13:30:43.5195 [98, 2, 2, 65, 11, 98]
+[13:30:43.5196 Dry: Valence = 0.073, Arousal = 0.000
+[13:30:43.5196 FX 1: Valence = 0.115, Arousal = 0.244
+[13:30:43.5196 FX 2: Valence = -0.151, Arousal = -0.149
+[13:30:43.5196 FX 3: Valence = 0.099, Arousal = -0.003
+[13:30:43.5197 FX 4: Valence = 0.123, Arousal = 0.134
+[13:30:43.5197 Full Mix: Valence = 0.126, Arousal = 0.090
+[13:30:43.5197 Stress : 0 Attention : 0 Footpedal : 127
+[13:30:43.5197 -----------
