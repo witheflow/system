@@ -45,11 +45,4 @@ export WITHEFLOW_DEVICE_INDEX = 0
  3. Route the first track to each of the other two.
 
  After this setup, if you run ```python audioset_classfier.py``` in the ```scripts``` folder, you will be shown the classification for each of the two FX tracks in real time (you need to send audio through the first track)
-
- ## TODO
- [] MIDI control of reaper faders from python
-
- [] Swap classifier for something more meaningful
- 
- [] Implement the logic for attenuating the faders
  
