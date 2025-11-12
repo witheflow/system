@@ -253,10 +253,10 @@ if __name__ == "__main__":
     # Create command line argument parser
     parser = argparse.ArgumentParser(description='Parse session log file into a pandas DataFrame')
     parser.add_argument('-i', '--input', type=str,
-                        default='/home/jason/projects/research/witheflow/scripts/session_log.txt',
+                        default='session_log.txt',
                         help='Path to session_log.txt file')
     parser.add_argument('-o', '--output', type=str,
-                        default='/home/jason/projects/research/witheflow/scripts/session_data.csv',
+                        default='session_data.csv',
                         help='Path to output CSV file')
     parser.add_argument('-v', '--verbose', action='store_true',
                         help='Enable verbose output (detailed parsing information)')
