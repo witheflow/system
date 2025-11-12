@@ -3,7 +3,7 @@ rules:
   - name: high_stress_high_attention
     condition:
       stress: {gt: 0.15}
-      attention: {gt: 0.4}
+      attention: {gt: 0.15}
     function: boost_near_low_arousal
     description: >
       Boost FX that are close to the dry signal and have lower arousal than the dry signal.
@@ -12,7 +12,7 @@ rules:
   - name: high_stress_low_attention
     condition:
       stress: {gt:  0.15}
-      attention: {lt: 0.4}
+      attention: {lt: 0.15}
     function: boost_far_in_high_arousal_direction
     description: >
       Boost FX that are far from the dry signal and lie in the direction of increasing arousal (i.e., arousal_fx > arousal_dry).
@@ -21,7 +21,7 @@ rules:
   - name: low_stress_high_attention
     condition:
       stress: {lt:  0.15}
-      attention: {gt: 0.4}
+      attention: {gt: 0.15}
     function: boost_near_only
     description: >
       Boost FX that are close to the dry signal in VA space.
@@ -30,7 +30,7 @@ rules:
   - name: low_stress_low_attention
     condition:
       stress: {lt:  0.15}
-      attention: {lt: 0.4}
+      attention: {lt: 0.15}
     function: boost_far_any_direction
     description: >
       Boost FX that are far from the dry signal, regardless of direction.

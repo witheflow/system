@@ -1,7 +1,7 @@
 {
     "MODEL_PATH":"../models/deam_va_model.pt",
     "DEVICE_INDEX":0,
-    "MIDI_IN_PORT":"Network AIAS SESSION",
+    "MIDI_IN_PORT":"IAC Driver witheFlow_Sensors",
     "MIDI_OUT_PORT":"IAC Driver Bus 1",
     "MIDI_OUT_CHANNEL":0,
     "CC_DRY":20,
