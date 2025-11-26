@@ -35056,3 +35056,84 @@
 [15:28:29.6072 3: M4 (8 in, 4 out)
 [15:28:29.6072 4: Aggregate Device (24 in, 20 out)
 [15:28:30.2456 Running real-time inference. Open http://127.0.0.1:8051 for the HUD. Press Ctrl+C to stop.
+[14:01:13.4804 Available MIDI output ports:
+[14:01:13.5055 Network AIAS SESSION
+[14:01:13.5056 IAC Driver Bus 1
+[14:01:13.5056 IAC Driver witheFlow_Sensors
+[14:01:13.5056 mioXM DIN 1
+[14:01:13.5056 mioXM DIN 2
+[14:01:13.5056 mioXM DIN 3
+[14:01:13.5056 mioXM DIN 4
+[14:01:13.5056 mioXM HST 1
+[14:01:13.5056 mioXM HST 2
+[14:01:13.5057 mioXM HST 3
+[14:01:13.5057 mioXM HST 4
+[14:01:13.5057 mioXM HST 5
+[14:01:13.5057 mioXM HST 6
+[14:01:13.5057 mioXM HST 7
+[14:01:13.5057 mioXM HST 8
+[14:01:13.5057 mioXM Preset Selector
+[14:01:13.5057 mioXM RSV 1
+[14:01:13.5057 mioXM RSV 2
+[14:01:13.5057 mioXM RSV 3
+[14:01:13.5059 0: BlackHole 16ch (16 in, 16 out)
+[14:01:13.5059 1: MacBook Pro Microphone (1 in, 0 out)
+[14:01:13.5059 2: MacBook Pro Speakers (0 in, 2 out)
+[14:01:13.5059 3: Aggregate Device (16 in, 16 out)
+[14:01:14.1737 Running real-time inference. Open http://127.0.0.1:8051 for the HUD. Press Ctrl+C to stop.
+[14:05:35.6728 Available MIDI output ports:
+[14:05:35.6937 M4
+[14:05:35.6938 Network AIAS SESSION
+[14:05:35.6938 IAC Driver Bus 1
+[14:05:35.6938 IAC Driver witheFlow_Sensors
+[14:05:35.6938 mioXM DIN 1
+[14:05:35.6938 mioXM DIN 2
+[14:05:35.6938 mioXM DIN 3
+[14:05:35.6939 mioXM DIN 4
+[14:05:35.6939 mioXM HST 1
+[14:05:35.6939 mioXM HST 2
+[14:05:35.6939 mioXM HST 3
+[14:05:35.6939 mioXM HST 4
+[14:05:35.6939 mioXM HST 5
+[14:05:35.6939 mioXM HST 6
+[14:05:35.6939 mioXM HST 7
+[14:05:35.6939 mioXM HST 8
+[14:05:35.6939 mioXM Preset Selector
+[14:05:35.6939 mioXM RSV 1
+[14:05:35.6939 mioXM RSV 2
+[14:05:35.6939 mioXM RSV 3
+[14:05:35.6939 Impact LX61+ MIDI1
+[14:05:35.6940 0: BlackHole 16ch (16 in, 16 out)
+[14:05:35.6940 1: MacBook Pro Microphone (1 in, 0 out)
+[14:05:35.6940 2: MacBook Pro Speakers (0 in, 2 out)
+[14:05:35.6940 3: M4 (8 in, 4 out)
+[14:05:35.6940 4: Aggregate Device (24 in, 20 out)
+[14:05:36.3541 Running real-time inference. Open http://127.0.0.1:8051 for the HUD. Press Ctrl+C to stop.
+[14:22:39.1123 Available MIDI output ports:
+[14:22:39.1331 M4
+[14:22:39.1332 Network AIAS SESSION
+[14:22:39.1332 IAC Driver Bus 1
+[14:22:39.1332 IAC Driver witheFlow_Sensors
+[14:22:39.1332 mioXM DIN 1
+[14:22:39.1332 mioXM DIN 2
+[14:22:39.1333 mioXM DIN 3
+[14:22:39.1333 mioXM DIN 4
+[14:22:39.1333 mioXM HST 1
+[14:22:39.1333 mioXM HST 2
+[14:22:39.1333 mioXM HST 3
+[14:22:39.1333 mioXM HST 4
+[14:22:39.1333 mioXM HST 5
+[14:22:39.1333 mioXM HST 6
+[14:22:39.1333 mioXM HST 7
+[14:22:39.1333 mioXM HST 8
+[14:22:39.1333 mioXM Preset Selector
+[14:22:39.1333 mioXM RSV 1
+[14:22:39.1333 mioXM RSV 2
+[14:22:39.1333 mioXM RSV 3
+[14:22:39.1333 Impact LX61+ MIDI1
+[14:22:39.1334 0: BlackHole 16ch (16 in, 16 out)
+[14:22:39.1334 1: MacBook Pro Microphone (1 in, 0 out)
+[14:22:39.1334 2: MacBook Pro Speakers (0 in, 2 out)
+[14:22:39.1334 3: M4 (8 in, 4 out)
+[14:22:39.1334 4: Aggregate Device (24 in, 20 out)
+[14:22:39.7891 Running real-time inference. Open http://127.0.0.1:8051 for the HUD. Press Ctrl+C to stop.
